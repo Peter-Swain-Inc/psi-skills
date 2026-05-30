@@ -1,0 +1,412 @@
+[
+  {
+    "name": "agent-trainer",
+    "description": "Use when you want to teach your AI agent about you. A guided Q&A that builds a personalised profile \u2014 saving preferences, style, priorities, and pet peeves directly to memory.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/agent-trainer",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/agent-trainer",
+    "tags": [
+      "personal",
+      "productivity",
+      "habits",
+      "personal"
+    ],
+    "category": "personal"
+  },
+  {
+    "name": "cold-list-re-engager",
+    "description": "Use when you want to wake up a cold or inactive email list. Writes a 3-email comeback sequence tailored to your list's history and pushes it to a Google Doc.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/cold-list-re-engager",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/cold-list-re-engager",
+    "tags": [
+      "leads",
+      "email",
+      "marketing",
+      "conversion",
+      "leads"
+    ],
+    "category": "leads"
+  },
+  {
+    "name": "collab-scout",
+    "description": "Use when you want to find collaboration, guest post, or PR opportunities in your niche. Researches 5 opportunities and drafts personalised outreach, asking before sending.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/collab-scout",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/collab-scout",
+    "tags": [
+      "traffic",
+      "content",
+      "social-media",
+      "outreach",
+      "traffic"
+    ],
+    "category": "traffic"
+  },
+  {
+    "name": "community-mapper",
+    "description": "Use when you want to find where your ideal customer hangs out online. Asks 3 questions about your ICA, then maps 5 communities with guidance on how to show up effectively.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/community-mapper",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/community-mapper",
+    "tags": [
+      "traffic",
+      "content",
+      "social-media",
+      "outreach",
+      "traffic"
+    ],
+    "category": "traffic"
+  },
+  {
+    "name": "content-repurposer",
+    "description": "Use when you want to spin one piece of content into multiple formats. Takes a blog post, talk, or idea and produces 5 ready-to-use content formats, pushed to a Google Doc.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/content-repurposer",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/content-repurposer",
+    "tags": [
+      "traffic",
+      "content",
+      "social-media",
+      "outreach",
+      "traffic"
+    ],
+    "category": "traffic"
+  },
+  {
+    "name": "daily-read",
+    "description": "Use when you want one genuinely worthwhile article to read today. Finds a recent, relevant piece in AI, entrepreneurship, or your focus area and pushes it to Slack with a one-line \"insight worth stealing.\"",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/daily-read",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/daily-read",
+    "tags": [
+      "personal",
+      "productivity",
+      "habits",
+      "personal"
+    ],
+    "category": "personal"
+  },
+  {
+    "name": "daily-shutdown",
+    "description": "Use when ending the workday. Runs a 5-minute structured shutdown ritual \u2014 clears today, locks in tomorrow's",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/daily-shutdown",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/daily-shutdown",
+    "tags": [
+      "personal",
+      "productivity",
+      "habits",
+      "personal"
+    ],
+    "category": "personal"
+  },
+  {
+    "name": "decision-support",
+    "description": "Use when you're stuck on a decision and need a thinking partner. Clarifies the decision type, surfaces hidden assumptions, maps real trade-offs, and recommends one option with a rationale.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/decision-support",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/decision-support",
+    "tags": [
+      "productivity",
+      "planning",
+      "briefing",
+      "generic"
+    ],
+    "category": "generic"
+  },
+  {
+    "name": "difficult-message-drafter",
+    "description": "Use when you need to say something hard to someone. Asks one clarifying question, then drafts the message in three versions \u2014 direct, diplomatic, and firm \u2014 for your choice.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/difficult-message-drafter",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/difficult-message-drafter",
+    "tags": [
+      "productivity",
+      "planning",
+      "briefing",
+      "generic"
+    ],
+    "category": "generic"
+  },
+  {
+    "name": "email-spring-clean",
+    "description": "Use when you want to declutter your inbox. Scans for top noise-generating senders, shows you the list, and on your confirmation \u2014 archives and filters them.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/email-spring-clean",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/email-spring-clean",
+    "tags": [
+      "personal",
+      "productivity",
+      "habits",
+      "personal"
+    ],
+    "category": "personal"
+  },
+  {
+    "name": "inbox-opportunity-scout",
+    "description": "Use when you want to find hidden sales opportunities in your inbox. Scans the last 30 days for buying signals, surfaces a shortlist of 5 opportunities, and pushes a summary to Slack.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/inbox-opportunity-scout",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/inbox-opportunity-scout",
+    "tags": [
+      "sales",
+      "crm",
+      "proposals",
+      "sales"
+    ],
+    "category": "sales"
+  },
+  {
+    "name": "landing-page-auditor",
+    "description": "Use when you want to know why your landing page isn't converting. Runs a 7-point audit with scores and a prioritised 3-fix action list, delivered in chat.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/landing-page-auditor",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/landing-page-auditor",
+    "tags": [
+      "leads",
+      "email",
+      "marketing",
+      "conversion",
+      "leads"
+    ],
+    "category": "leads"
+  },
+  {
+    "name": "lead-magnet-stress-test",
+    "description": "Use when you want to know why your lead magnet isn't converting, or stress-test one before launching. Runs a brutal 5-question audit and rewrites your headline and promise statement.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/lead-magnet-stress-test",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/lead-magnet-stress-test",
+    "tags": [
+      "leads",
+      "email",
+      "marketing",
+      "conversion",
+      "leads"
+    ],
+    "category": "leads"
+  },
+  {
+    "name": "morning-briefing",
+    "description": "Use when you want a daily briefing to start your day. Delivers weather, calendar, priorities, news headlines, and urgent email highlights \u2014 pushed to Telegram every morning.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/morning-briefing",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/morning-briefing",
+    "tags": [
+      "productivity",
+      "planning",
+      "briefing",
+      "generic"
+    ],
+    "category": "generic"
+  },
+  {
+    "name": "morning-momentum",
+    "description": "Use when starting your day and want to prime your mindset before diving into work. Three focused questions that clear yesterday's noise and set a sharp intention for today.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/morning-momentum",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/morning-momentum",
+    "tags": [
+      "personal",
+      "productivity",
+      "habits",
+      "personal"
+    ],
+    "category": "personal"
+  },
+  {
+    "name": "north-star-setter",
+    "description": "Use when you want to set a clear focus for the week. Runs a 5-question conversation, creates a weekly north star card, and pushes it to Notion and Slack.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/north-star-setter",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/north-star-setter",
+    "tags": [
+      "productivity",
+      "planning",
+      "briefing",
+      "generic"
+    ],
+    "category": "generic"
+  },
+  {
+    "name": "nurture-sequence-writer",
+    "description": "Use when you need a 5-email nurture sequence for a new lead or offer. Writes the full sequence with subject lines, preview text, and body copy, then pushes to a Google Doc.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/nurture-sequence-writer",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/nurture-sequence-writer",
+    "tags": [
+      "leads",
+      "email",
+      "marketing",
+      "conversion",
+      "leads"
+    ],
+    "category": "leads"
+  },
+  {
+    "name": "objection-playbook-builder",
+    "description": "Use when you want a structured response guide for your most common sales objections. Builds a formatted playbook with acknowledge-reframe-close scripts for each objection, pushed to a Google Doc.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/objection-playbook-builder",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/objection-playbook-builder",
+    "tags": [
+      "sales",
+      "crm",
+      "proposals",
+      "sales"
+    ],
+    "category": "sales"
+  },
+  {
+    "name": "podcast-scout",
+    "description": "Use when you want to find podcasts to pitch for guest appearances. Researches 5 matched podcasts, builds personalised outreach emails, and asks before sending.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/podcast-scout",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/podcast-scout",
+    "tags": [
+      "traffic",
+      "content",
+      "social-media",
+      "outreach",
+      "traffic"
+    ],
+    "category": "traffic"
+  },
+  {
+    "name": "post-call-debrief",
+    "description": "Use when you've just finished a sales call and want to extract what happened fast. Runs a quick brain-dump-to-debrief in 5 minutes, delivered in chat.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/post-call-debrief",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/post-call-debrief",
+    "tags": [
+      "sales",
+      "crm",
+      "proposals",
+      "sales"
+    ],
+    "category": "sales"
+  },
+  {
+    "name": "proposal-writer",
+    "description": "Use when you want to turn call notes into a professional client proposal. Extracts key details, writes a structured proposal and cover email, and pushes both to a Google Doc.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/proposal-writer",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/proposal-writer",
+    "tags": [
+      "sales",
+      "crm",
+      "proposals",
+      "sales"
+    ],
+    "category": "sales"
+  },
+  {
+    "name": "sales-call-prep",
+    "description": "Use when you're preparing for an upcoming sales or discovery call. Researches the prospect, generates tailored discovery questions, anticipates objections, and pushes a prep brief to Notion or Google Doc.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/sales-call-prep",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/sales-call-prep",
+    "tags": [
+      "sales",
+      "crm",
+      "proposals",
+      "sales"
+    ],
+    "category": "sales"
+  },
+  {
+    "name": "social-content-builder",
+    "description": "Use when you want a full week of social content from one core idea. Builds 5 LinkedIn posts, 3 Twitter/X posts, 1 Instagram caption, and 1 video hook, pushed to a Google Doc.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/social-content-builder",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/social-content-builder",
+    "tags": [
+      "traffic",
+      "content",
+      "social-media",
+      "outreach",
+      "traffic"
+    ],
+    "category": "traffic"
+  },
+  {
+    "name": "warm-prospect-surfacer",
+    "description": "Use when you want to know who to follow up with right now. Surfaces 5 warm prospects from your leads, drafts a personalised follow-up for each, and asks before sending anything.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/warm-prospect-surfacer",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/warm-prospect-surfacer",
+    "tags": [
+      "leads",
+      "email",
+      "marketing",
+      "conversion",
+      "leads"
+    ],
+    "category": "leads"
+  },
+  {
+    "name": "weekly-review",
+    "description": "Use when you want to do a structured end-of-week reflection. Runs a conversational review covering wins, losses, energy, decisions, and carry-forwards \u2014 one question at a time.",
+    "source": "github",
+    "identifier": "Peter-Swain-Inc/psi-skills/weekly-review",
+    "trust_level": "community",
+    "repo": "Peter-Swain-Inc/psi-skills",
+    "path": "skills/weekly-review",
+    "tags": [
+      "productivity",
+      "planning",
+      "briefing",
+      "generic"
+    ],
+    "category": "generic"
+  }
+]
